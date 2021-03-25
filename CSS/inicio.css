@@ -34,8 +34,8 @@ nav, section, footer{
 div{
     display: inline-block;
    text-align: left; 
-   margin-left: 50px;
-   margin-right: 50px;
+   margin-left: 30px;
+   margin-right: 30px;
    
 }
 
@@ -350,4 +350,12 @@ button{
     bottom: 100%;
     transition: 1s;
     transition-delay: 0.75s;
+}
+.alerta{
+    width: 500px;
+}
+
+.img{
+    width: 350px;
+    height: 700px;
 }
